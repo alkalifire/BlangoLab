@@ -1,7 +1,7 @@
 ---
 authors:
 - Abdulrahman Kelani
-bio: My research interests are centered on the small RNA generating machinery of Aspergillus fumigatus. 
+bio: My research interests are centered on the small RNA generating machinery of _Aspergillus fumigatus_. 
 education:
 email: "abdulrahman.kelani@leibniz-hki.de"
 interests:
@@ -9,8 +9,8 @@ interests:
 - RNA interference
 - Pathogenesis
 organizations:
-- name: Leibniz-HKI
-  url: ""
+- name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
+  url: "https://www.leibniz-hki.de/en/home.html"
 role: PhD Student
 social:
 - icon: envelope
@@ -30,6 +30,7 @@ title: Abdulrahman Kelani
 user_groups:
 - Students
 ---
-__A little bit more info__
+
+__Tell me more__
 
 Rahman got his Master's in Microbiology in the laboratory of Prof. Axel A. Brakhage at the Leibniz Institue for Natural Product Research and Infection Biology: Hans Knöll Institute. For his PhD studies, Rahman investigates how fungi use RNA interference machinery to control stress response and virulence cascades. 
