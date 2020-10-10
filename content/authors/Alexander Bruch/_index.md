@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Alexander Bruch
 user_groups:
-- Students
+- Researchers
 ---
 
 __Tell me more__
