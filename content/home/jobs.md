@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Currently we do not have any available positions. Watch this space for updates or check https://jobs.hki-jena.de/jobs/job-offers
+Watch this space for updates or check https://jobs.hki-jena.de/jobs/job-offers for the latest positions!

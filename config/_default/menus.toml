@@ -6,7 +6,7 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 10
+  weight = 20
 
 #[[main]]
 #  name = "Posts"
@@ -16,7 +16,7 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 25
 
 [[main]]
   name = "Publications"
