@@ -4,10 +4,10 @@ authors:
 bio:  
 education: 
 email: "pamela.baumann@leibniz-hki.de"
-interests:
-- 
-- 
-- 
+#interests:
+#- 
+#- 
+#- 
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
@@ -33,4 +33,4 @@ user_groups:
 
 __Tell me more__
 
-More Info Coming December 1st!
+Pamela joins us December 1st!

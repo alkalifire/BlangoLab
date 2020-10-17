@@ -4,10 +4,10 @@ authors:
 bio:  
 education: 
 email: "alexander.bruch@leibniz-hki.de"
-interests:
-- tRNA
-- Extracellular RNA
-- Fungal infection
+#interests:
+#- tRNA
+#- Extracellular RNA
+#- Fungal infection
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
