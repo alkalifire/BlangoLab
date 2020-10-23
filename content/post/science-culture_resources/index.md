@@ -2,7 +2,6 @@
 authors:
 - admin
 categories:
-- Demo
 date: "2020-10-02T00:00:00Z"
 draft: false
 featured: false
