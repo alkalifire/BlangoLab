@@ -1,5 +1,5 @@
 ---
-date: "2020-11-01T00:00:00Z"
+date: "2020-11-01"
 #external_link: http://example.org
 image:
   caption: Photo by Matthew Blango
