@@ -21,4 +21,4 @@ url_slides: ""
 url_video: ""
 ---
 
-One of the long-term goals of the laboratory is develop RNA-based therapeutics and diagnostics that can be used to fight fungal infections. This goal will depend on building a strong base of understanding of the RNA biology of fungi. We hope to have some exciting news to share here soon! 
+One of the long-term goals of the laboratory is to develop RNA-based therapeutics and diagnostics that can be used to fight fungal infections. This goal will depend on building a strong base of understanding of the RNA biology of fungi. We hope to have some exciting news to share here soon! 

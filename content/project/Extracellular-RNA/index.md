@@ -20,4 +20,4 @@ url_slides: ""
 url_video: ""
 ---
 
-In this project, we are focused on defining the RNAs that fill the extracellular during infection. We are particularly interested in RNA that is present in extracellular vesicles produced by host cells during infection. Expect more to come soon!
+In this project, we are focused on defining the RNAs in the extracellular space during infection. We are particularly interested in RNA that are present in extracellular vesicles produced by host cells during infection. Expect more to come soon!
