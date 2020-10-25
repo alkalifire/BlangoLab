@@ -1,13 +1,23 @@
 ---
-date: "2020-11-01"
-#external_link: http://example.org
+date: "2020-10-01"
+external_link: ""
 image:
   caption: Photo by Matthew Blango
   focal_point: Smart
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/mgblango
+#slides: example
 summary: How does exRNA contribute to fungal infection?
 tags:
 - Basic Research
 title: Extracellular RNA
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 In this project, we are focused on defining the RNAs that fill the extracellular during infection. We are particularly interested in RNA that is present in extracellular vesicles produced by host cells during infection. Expect more to come soon!

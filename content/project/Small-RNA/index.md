@@ -1,15 +1,15 @@
 ---
-date: "2020-11-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Matthew Blango
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/mgblango
-slides: example
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/mgblango
+#slides: example
 summary: Exploring the world of fungal noncoding RNA
 tags:
 - Basic Research
