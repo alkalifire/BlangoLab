@@ -21,4 +21,4 @@ url_slides: ""
 url_video: ""
 ---
 
-In this project, we would like to better define the small RNA speices that are present within fungi. Ultimately, the information gained through these studies will help us understand how to better target fungal processes using advanced RNA-based therapeutics. Stay tuned for more exciting progress! 
+In this project, we would like to better define the small RNA species that are present within fungi. Ultimately, the information gained through these studies will help us understand how to better target fungal processes using advanced RNA-based therapeutics. Stay tuned for more exciting progress! 

@@ -15,7 +15,7 @@ subtitle = "Currently showing Matt's contributions"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
