@@ -54,4 +54,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-_As a rule, all new employee avatars are replaced with a cat photo until a photo is provided!_
+_As a rule, all new team member avatars are replaced with a cat photo until a photo is provided!_
