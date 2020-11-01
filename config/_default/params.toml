@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "BlangoLab"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The website for the Junior Research Group RNA Biology of Fungal Infections at the Leibniz-HKI"
+description = "The website of the Junior Research Group RNA Biology of Fungal Infections at the Leibniz-HKI"
 
 ############################
 ## Site Features
