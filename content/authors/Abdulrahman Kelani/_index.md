@@ -13,9 +13,9 @@ organizations:
   url: "https://www.leibniz-hki.de/en/home.html"
 role: PhD Student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
