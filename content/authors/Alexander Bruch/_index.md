@@ -5,6 +5,9 @@ bio:
 education: 
 email: "alexander.bruch@leibniz-hki.de"
 interests:
+- Gene regulation
+- RNA Biology
+- Fungi
 - Heavy metal
 - Table-top games
 - Visiting festivals
