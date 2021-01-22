@@ -28,6 +28,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "MMTSS"
+  organization_url = "https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/"
+  title = "MMTSS Seminar!"
+  url = "https://www.youtube.com/watch?v=gWAbQ6fxeyo"
+  certificate_url = ""
+  date_start = "2021-01-14"
+  date_end = ""
+  description = "Matt recently gave a seminar as part of the [Medical Mycology Trainee Seminar Series (MMTSS)](https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/) on the potential for using RNA-based therapeutics to treat fungal infections. You can then stick around to hear Dr. Carolina Coehlo present awesome work from her lab as well in this double-header. You can check out the recording  [here](https://www.youtube.com/watch?v=gWAbQ6fxeyo)! ![png](accomplishments_1.png)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
