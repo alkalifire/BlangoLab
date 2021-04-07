@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-31"
   date_end = ""
-  description = "Rahman was selected to give a talk at the recent MiCom 2021 conference run by the students of the [Jena School for Microbial Communication](https://www.jsmc-phd.de/). He gave a great talk updating the community on our recent efforts to characterize the RNA interference machinery of *Aspergillus fumigatus*!"
+  description = "Rahman was selected to give a talk at the recent MiCom 2021 conference run by the students of the [Jena School for Microbial Communication](https://www.jsmc-phd.de/). He gave a great talk updating the community on our recent efforts to characterize the RNA interference machinery of *Aspergillus fumigatus*! ![png](RahmanMiCom.png)"
 
 #[[item]]
 #  organization = "edX"
