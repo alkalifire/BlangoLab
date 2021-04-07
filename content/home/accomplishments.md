@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Matt recently gave a seminar as part of the [Medical Mycology Trainee Seminar Series (MMTSS)](https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/) on the potential for using RNA-based therapeutics to treat fungal infections. You can then stick around to hear Dr. Carolina Coehlo present awesome work from her lab as well in this double-header. You can check out the recording  [here](https://www.youtube.com/watch?v=gWAbQ6fxeyo)! ![png](accomplishments_1.png)"
 
+[[item]]
+  organization = "MiCom 2021"
+  organization_url = "https://www.micom.uni-jena.de/"
+  title = "MiCom 2021 PhD Talk!"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-31"
+  date_end = ""
+  description = "Rahman was selected to give a talk at the recent MiCom 2021 conference run by the students of the [Jena School for Microbial Communication](https://www.jsmc-phd.de/). He gave a great talk updating the community on our recent efforts to characterize the RNA interference machinery of *Aspergillus fumigatus*!"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
