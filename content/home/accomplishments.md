@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-11-01"
   date_end = ""
-  description = ""
+  description = "[![png](newlabhki.png)](https://www.leibniz-hki.de/en/home.html)"
 
 [[item]]
   organization = "MMTSS"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-01-14"
   date_end = ""
-  description = "Matt recently gave a seminar as part of the [Medical Mycology Trainee Seminar Series (MMTSS)](https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/) on the potential for using RNA-based therapeutics to treat fungal infections. You can then stick around to hear Dr. Carolina Coehlo present awesome work from her lab as well in this double-header. You can check out the recording  [here](https://www.youtube.com/watch?v=gWAbQ6fxeyo)! ![png](accomplishments_1.png)"
+  description = "Matt recently gave a seminar as part of the [Medical Mycology Trainee Seminar Series (MMTSS)](https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/) on the potential for using RNA-based therapeutics to treat fungal infections. You can then stick around to hear Dr. Carolina Coehlo present awesome work from her lab as well in this double-header. You can check out the recording  [here](https://www.youtube.com/watch?v=gWAbQ6fxeyo)! [![png](accomplishments_1.png)](https://www.youtube.com/watch?v=gWAbQ6fxeyo)"
 
 [[item]]
   organization = "MiCom 2021"
@@ -47,6 +47,16 @@ date_format = "Jan 2006"
   date_start = "2021-03-31"
   date_end = ""
   description = "Rahman was selected to give a talk at the recent MiCom 2021 conference run by the students of the [Jena School for Microbial Communication](https://www.jsmc-phd.de/). He gave a great talk updating the community on our recent efforts to characterize the RNA interference machinery of *Aspergillus fumigatus*! ![png](RahmanMiCom.png)"
+
+[[item]]
+  organization = "microLife"
+  organization_url = ""
+  title = "New Publication!"
+  url = "https://doi.org/10.1093/femsml/uqab003"
+  certificate_url = ""
+  date_start = "2021-04-16"
+  date_end = ""
+  description = "The RBI teamed up with the EV crew of the Brakhage group on a [review](https://doi.org/10.1093/femsml/uqab003) of antimicrobial extracellular vesicles. It was a lot of fun exploring some new-to-us examples of antimicrobial vesicles for this [FEMS microLife](https://academic.oup.com/microlife) short review. [![png](microlife.png)](https://academic.oup.com/microlife)"
 
 #[[item]]
 #  organization = "edX"
