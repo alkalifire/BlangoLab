@@ -11,7 +11,7 @@ interests:
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: PhD Student
+role: Doctoral Researcher
 social:
 #- icon: envelope
 #  icon_pack: fas
