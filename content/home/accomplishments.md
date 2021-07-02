@@ -58,6 +58,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "The RBI teamed up with the EV crew of the Brakhage group on a [review](https://doi.org/10.1093/femsml/uqab003) of antimicrobial extracellular vesicles. It was a lot of fun exploring some new-to-us examples of antimicrobial vesicles for this [FEMS microLife](https://academic.oup.com/microlife) short review. [![png](microlife.png)](https://academic.oup.com/microlife)"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "New Addition to the Team!"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-06-01"
+  date_end = ""
+  description = "The RBI has a new member! Xiaoqing joined the team as a doctoral researcher after completing her Maseter's degree at the South China Botanical Garden, Chinese Academy of Sciences. We are excited to explore a bit of RNA structure during fungal pathogenesis!"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"

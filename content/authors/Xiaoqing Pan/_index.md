@@ -5,9 +5,9 @@ bio:
 education:
 email: ""
 interests:
-- 
-- 
-- 
+- Old school hip hop music
+- Playing guitar
+- Sci-fi movies
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
@@ -33,4 +33,5 @@ user_groups:
 
 __Tell me more__
 
-Coming Soon! 
+Xiaoqing got her Master's degree at the South China Botanical Garden, Chinese Academy of Sciences. Her previous work was exploring rice functional circular RNAs after *Xanthamonas oryzae* pv. oryzae (Xoo) infection. For her PhD studies, Xiaoqing will try to investigate host RNA structural changes in response to fungal infection.
+
