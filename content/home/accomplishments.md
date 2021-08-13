@@ -68,6 +68,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "The RBI has a new member! Xiaoqing joined the team as a doctoral researcher after completing her Maseter's degree at the South China Botanical Garden, Chinese Academy of Sciences. We are excited to explore a bit of RNA structure during fungal pathogenesis!"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Lab Photo!"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-08-12"
+  date_end = ""
+  description = "We decided it was time for a proper team photo. We quickly decided it was also time for a less serious team photo. ![png](labphoto_1.jpg)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
