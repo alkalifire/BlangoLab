@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-We are currently looking for a doctoral researcher to study the contribution of host-derived extracellular RNA in antifungal defense! You can find more information and apply  [here](https://jobs.hki-jena.de/jobs/Doctoral-Researcher-fdivm-in-RNA-Biology-eng-j316.html?sid=e8e6e18b356bdd6160ce8e1bc6b043aa)!
+We currently have no positions on offer. We are willing to consider supporting candidates for postdoc fellowships on a case-by-case basis. You can check for other positions available at the Leibniz-HKI [here](https://jobs.hki-jena.de/jobs/)!

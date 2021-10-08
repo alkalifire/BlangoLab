@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "RNA Biology of Fungal Infections"
-  content = "On a quest for intriuging science!"
+  content = " "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "RNA Biology of Fungal Infections"
-  content = "Following the RNA"
+  content = " "
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
@@ -45,7 +45,7 @@ height = ""
 
 [[item]]
   title = "RNA Biology of Fungal Infections"
-  content = "Fungi are the best microbes"
+  content = " "
   align = "right"
 
   #overlay_color = "#333"  # An HTML color value.

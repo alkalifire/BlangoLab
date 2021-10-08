@@ -78,6 +78,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "We decided it was time for a proper team photo. We quickly decided it was also time for a less serious team photo. ![png](labphoto_1.jpg)"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "New Publication!"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-10-08"
+  date_end = ""
+  description = "Alex and Rahman teamed up on an Opinion piece in Trends in Microbiology discussing the potential for using RNA-based therapeutics against human fungal infections. Check it out using the free early online download link, [here](https://authors.elsevier.com/a/1dtXN,L%7EyCfV77) until November 27th, 2021.  [![png](TiM.png)](https://authors.elsevier.com/a/1dtXN,L%7EyCfV77)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
