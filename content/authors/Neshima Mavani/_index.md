@@ -31,5 +31,12 @@ user_groups:
 
 __Tell me more__
 
-Coming Soon!
+Neshima got her Bacherlor’s degree in Biochemistry and Cell Biology from Jacobs University Bremen where she worked on plant antimicrobial peptides and is currently pursuing her Masters in Molecular Life Sciences at the Friedrich-Schiller Universität Jena. She has come to learn that motivation, commitment, determination, and diligence are characteristics that are significantly vital in order to fulfil her goals as a researcher. She is currently investigating RNA binding proteins that contribute to unrecognized regulatory cascades and may be important to stress response and virulence in human fungal pathogens. She is also very passionate about music and would always be more than happy to share her musical talents with her community. Neshima hopes to pursue a PhD dealing with infectious diseases in humans or plants after the completion of her graduate studies.
 
+Interests:
+Microbiology
+Infectious diseases
+Immunology
+Music
+Nature
+Social events
