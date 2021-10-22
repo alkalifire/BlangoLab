@@ -33,4 +33,4 @@ user_groups:
 
 __Tell me more__
 
-Rahman got his Master's in Microbiology in the laboratory of Prof. Axel A. Brakhage at the Leibniz Institue for Natural Product Research and Infection Biology: Hans Knöll Institute. For his PhD studies, Rahman investigates how fungi use RNA interference machinery to control stress response and virulence cascades. 
+Rahman got his Master's in Microbiology in the laboratory of Prof. Axel A. Brakhage at the Leibniz Institue for Natural Product Research and Infection Biology: Hans Knöll Institute. For his PhD studies, Rahman investigates how fungi use RNA interference machinery to control stress response and virulence cascades. He has also been working to identify novel small non-coding RNA species in fungi.
