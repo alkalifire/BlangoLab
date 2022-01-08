@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Leibniz-HKI"
-  organization_url = ""
-  title = "Group Established!"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-11-01"
-  date_end = ""
-  description = "[![png](newlabhki.png)](https://www.leibniz-hki.de/en/home.html)"
-
-[[item]]
   organization = "MMTSS"
   organization_url = "https://medicine.utah.edu/pathology/microbiology-immunology/mmtss/"
   title = "MMTSS Seminar!"
@@ -61,16 +51,6 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "New Addition to the Team!"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-06-01"
-  date_end = ""
-  description = "The RBI has a new member! Xiaoqing joined the team as a doctoral researcher after completing her Maseter's degree at the South China Botanical Garden, Chinese Academy of Sciences. We are excited to explore a bit of RNA structure during fungal pathogenesis!"
-
-[[item]]
-  organization = ""
-  organization_url = ""
   title = "Lab Photo!"
   url = ""
   certificate_url = ""
@@ -86,7 +66,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-10-08"
   date_end = ""
-  description = "Alex and Rahman teamed up on an Opinion piece in Trends in Microbiology discussing the potential for using RNA-based therapeutics against human fungal infections. Check it out using the free early online download link, [here](https://authors.elsevier.com/a/1dtXN,L%7EyCfV77) until November 27th, 2021.  [![png](TiM.png)](https://authors.elsevier.com/a/1dtXN,L%7EyCfV77)"
+  description = "Alex and Rahman teamed up on an Opinion piece in Trends in Microbiology discussing the potential for using RNA-based therapeutics against human fungal infections. Check it out [here](https://www.sciencedirect.com/science/article/pii/S0966842X21002183).  [![png](TiM.png)](https://www.sciencedirect.com/science/article/pii/S0966842X21002183)"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "New Publication!"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-01-05"
+  date_end = ""
+  description = "Alex and Matt teamed up with the Brakhage Lab on the establishment of a neutrophil-like cell line to study *A. fumigatus* pathogenesis. You can find the open access paper [here](https://journals.asm.org/doi/10.1128/msphere.00940-21).  [![png](2022_msphere.png)](https://journals.asm.org/doi/10.1128/msphere.00940-21)"
 
 #[[item]]
 #  organization = "edX"
