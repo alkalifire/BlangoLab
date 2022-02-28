@@ -78,6 +78,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Alex and Matt teamed up with the Brakhage Lab on the establishment of a neutrophil-like cell line to study *A. fumigatus* pathogenesis. You can find the open access paper [here](https://journals.asm.org/doi/10.1128/msphere.00940-21).  [![png](2022_msphere.png)](https://journals.asm.org/doi/10.1128/msphere.00940-21)"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "New Publication!"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-02-25"
+  date_end = ""
+  description = "A legacy project of Matt's started a long time ago was finally published in Nucleic Acids Research! You can learn a bit about the importance of tRNA modifications and find the open access paper [here](https://doi.org/10.1093/nar/gkac116).  [![png](nar.png)](https://doi.org/10.1093/nar/gkac116)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
