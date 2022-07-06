@@ -1,9 +1,9 @@
 ---
 authors:
-- Pamela Baumann
+- Pamela Lehenberger
 bio:  
 education: 
-email: "pamela.baumann@leibniz-hki.de"
+email: "pamela.lehenberger@leibniz-hki.de"
 #interests:
 #- 
 #- 
@@ -26,7 +26,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Pamela Baumann
+title: Pamela Lehenberger
 user_groups:
 - Laboratory Manager
 ---
@@ -42,5 +42,3 @@ In 2019, she rejoined the newly established Emmy Noether group of Prof. Dr. Pete
 Pamela is looking forward to extending her knowledge about microbial interactions to human pathogenic fungi as well as actively engage in fighting fungal diseases.
 
 In her free time, Pamela enjoys creative activities, essential oils, reading, and spending time outdoors.
-
-__Pamela joins us December 1st!__
