@@ -88,6 +88,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "A legacy project of Matt's started a long time ago was finally published in Nucleic Acids Research! You can learn a bit about the importance of tRNA modifications and find the open access paper [here](https://doi.org/10.1093/nar/gkac116).  [![png](nar.png)](https://doi.org/10.1093/nar/gkac116)"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "New Publication!"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-07-28"
+  date_end = ""
+  description = "We are happy to present the first preprint from the lab, and the first research manuscript from Rahman! Check it out and see what we learned about the RNA interference machinery in *A. fumigatus* [here](https://doi.org/10.1101/2022.07.28.501871). [![png](rnai.png)](https://doi.org/10.1101/2022.07.28.501871)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
