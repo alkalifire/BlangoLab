@@ -96,7 +96,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-07-28"
   date_end = ""
-  description = "We are happy to present the first preprint from the lab, and the first research manuscript from Rahman! Check it out and see what we learned about the RNA interference machinery in *A. fumigatus* [here](https://doi.org/10.1101/2022.07.28.501871). [![png](rnai.png)](https://doi.org/10.1101/2022.07.28.501871)"
+  description = "We are happy to present the first preprint from the lab and research manuscript from Rahman! Check it out and see what we learned about the RNA interference machinery in *A. fumigatus* [here](https://doi.org/10.1101/2022.07.28.501871). [![png](rnai.png)](https://doi.org/10.1101/2022.07.28.501871)"
 
 #[[item]]
 #  organization = "edX"
