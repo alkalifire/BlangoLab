@@ -33,6 +33,8 @@ user_groups:
 
 __Tell me more__
 
+ON PARENTAL LEAVE
+
 Pamela discovered her passion for microbiology during her studies at the [Friedrich Schiller University](https://www.uni-jena.de/en) in Jena. She was especially fascinated by the broad diversity and complexity of microbial interactions. 
 
 Her main research project in the last years was the investigation of bacterial induction of asexual fruiting in a beetle-associated fungus, which she started as an undergraduate at the [Max Planck Institute for Chemical Ecology](https://www.ice.mpg.de/ext/index.php?id=home0) in Jena under the supervision of [Prof. Dr. Peter Biedermann](http://www.insect-fungus.com/team/) and continued working on as a research collaborator in the lab of Prof. Dr. Thomas Harrington at Iowa State University. Afterward, she did her Master thesis in the group of [Dr. Matthew Agler](https://sites.google.com/view/microbiosis) to gain experience in plant-microbe interactions.
