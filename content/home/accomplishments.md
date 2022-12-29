@@ -104,7 +104,7 @@ date_format = "Jan 2006"
   title = "New Lab Photo!"
   url = ""
   certificate_url = ""
-  date_start = "2022-07-07"
+  date_start = "2022-08-08"
   date_end = ""
   description = "We managed to update the team photo this summer. Can you figure out what we were trying to spell? ![png](labphoto_2.jpg)"
 
