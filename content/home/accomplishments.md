@@ -98,6 +98,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "We are happy to present the first preprint from the lab and research manuscript from Rahman! Check it out and see what we learned about the RNA interference machinery in *A. fumigatus* [here](https://doi.org/10.1101/2022.07.28.501871). [![png](rnai.png)](https://doi.org/10.1101/2022.07.28.501871)"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "New Lab Photo!"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-07-07"
+  date_end = ""
+  description = "We managed to update the team photo this summer. Can you figure out what we were trying to spell? ![png](labphoto_2.jpg)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
