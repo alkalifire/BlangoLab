@@ -26,7 +26,7 @@ social:
 superuser: false
 title: Neshima Mavani
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__

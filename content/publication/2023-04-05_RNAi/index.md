@@ -1,11 +1,15 @@
 ---
-title: "Functional characterization of the RNA interference pathway in A. fumigatus reveals its potential for antifungal therapy"
+title: "Disruption of the Aspergillus fumigatus RNA inteference machinery alters the conidial transcriptome."
 authors:
 - Abdulrahman Kelani
 - Alexander Bruch
 - FLora Rivieccio
 - Corissa Visser
 - Thomas Krüger
+- Danielle Weaver
+- Xiaoqing Pan
+- Sascha Schäuble
+- Gianni Panagiotou
 - Olaf Kniemeyer
 - Michael J. Bromley
 - Paul Bowyer
@@ -15,20 +19,20 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-07-28"
-doi: "https://doi.org/10.1101/20222.07.28.501871"
+date: "2023-04-05"
+doi: "https://doi.org/10.1261/rna.079350.122"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-28"
+publishDate: "2023-04-05"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv, https://doi.org/10.1101/2022.07.28.501871"
+publication: "RNA, https://doi.org/10.1261/rna.079350.122"
 publication_short: ""
 
 abstract: 
@@ -43,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1101/2022.07.28.501871
+url_pdf: https://doi.org/10.1261/rna.079350.122
 url_code: ''
 url_dataset: ''
 url_poster: ''

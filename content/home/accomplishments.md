@@ -108,6 +108,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "We managed to update the team photo this summer. Can you figure out what we were trying to spell? ![png](labphoto_2.jpg)"
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "First Primary Research Publication!"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-04-05"
+  date_end = ""
+  description = "We are happy to present the first primary research pub from the lab and Rahman's first research paper! Check it out and see what we learned about the RNA interference machinery in *A. fumigatus* [here](https://doi.org/10.1261/rna.079350.122). [![png](first_pub.jpg)](https://doi.org/10.1261/rna.079350.122)"
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
