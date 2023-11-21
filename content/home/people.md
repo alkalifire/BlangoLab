@@ -18,6 +18,7 @@ subtitle = ""
                  "Researchers",
                  "Administration",
                  "Visitors",
+                 "Leave of Absence",
                  "Alumni"]
 
 [design]

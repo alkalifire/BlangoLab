@@ -3,7 +3,7 @@ authors:
 - Pamela Lehenberger
 bio:  
 education: 
-email: "pamela.lehenberger@leibniz-hki.de"
+#email: ""
 #interests:
 #- 
 #- 
@@ -28,12 +28,10 @@ social:
 superuser: false
 title: Pamela Lehenberger
 user_groups:
-- Laboratory Manager
+- Alumni
 ---
 
 __Tell me more__
-
-ON PARENTAL LEAVE
 
 Pamela discovered her passion for microbiology during her studies at the [Friedrich Schiller University](https://www.uni-jena.de/en) in Jena. She was especially fascinated by the broad diversity and complexity of microbial interactions. 
 
