@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Bhawana Israni
 user_groups:
-- Leave of Absence
+- On Leave
 ---
 
 __Tell me more__

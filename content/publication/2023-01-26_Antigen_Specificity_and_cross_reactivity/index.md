@@ -43,7 +43,7 @@ publishDate: "2019-02-21"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Clinical Investigation, In-Press Preview, https://doi.org/10.1172/JCI161593"
+publication: "Journal of Clinical Investigation, https://doi.org/10.1172/JCI161593"
 publication_short: ""
 
 abstract: "BACKGROUND. The fungus Aspergillus fumigatus causes a variety of clinical phenotypes in patients with cystic fibrosis (pwCF). T-helper (Th) cells orchestrate immune responses against fungi, but the types of A. fumigatus-specific Th-cells in pwCF and their contribution to protective immunity or inflammation remain poorly characterized.
